@@ -1,4 +1,4 @@
-<h3 align="left">Hi 🥰! My name is  Elizandra and I'm a future software engineer, in at the moment i´m sudying for to be FullStack.</h3>
+<h1 align="left">💙, Hi! My name is  Elizandra!</h1>
 
 ###
 
