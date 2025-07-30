@@ -16,15 +16,11 @@
 <p align="left"> 
   I’m a 22-year-old
 
-Learning English and other languages is opening my mind to understand more of the world 🌍 — even through the black mirror 📱 of my phone. The endless food 🍲, the parties 🥳, the people 🫂 I can meet and the experiences waiting out there thrill my stomach just to imagine them. There’s so much my five senses 🚣🎆🛸✈️🚄 are ready to explore — staying in one place forever just doesn’t make sense to me.
-
-Here on this social media 💭 you’ll find glimpses of how my brain 🧠 creates ideas and builds applications through code 👩‍💻. I’m diving into programming languages and tech skills that keep my curiosity alive — and I’ll share some of them along the way.
-
-Nice to meet you all 🥰 — I hope you enjoy your time on my profile and maybe find a spark to dream a little bigger too. 🏁✨
+about me 
 </p>
 
 <br>
-###
+
 <h2>Technologies: </h2>
 
 <br>
