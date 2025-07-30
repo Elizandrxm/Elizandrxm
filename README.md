@@ -24,8 +24,8 @@ Nice to meet you all 🥰 — I hope you enjoy your time on my profile and maybe
 </p>
 
 <br>
-
-<h2>Technologies 👩🏽‍🏫</h2>
+###
+<h2>Technologies: </h2>
 
 <br>
 
