@@ -4,6 +4,26 @@
 
 <br>
 
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/andrrade" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
+         style="height: 27px;" /></a>
+
+  <!-- Gmail  -->
+  <a href="mailto:devandrrade@gmail.com" style="text-decoration: none;">
+    <img alt="Gmail" title="Send me an email" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
+         style="height: 27px;" /></a>
+
+  <!-- GitHub Repositories Badge -->
+  <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
+    <img alt="Repositories" title="See my repositories on GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=634781" 
+         style="height: 27px;" /></a>
+
+
 <a href="https://www.linkedin.com/in/elizandra-maria-a17551278/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
