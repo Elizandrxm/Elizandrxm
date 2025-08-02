@@ -12,13 +12,13 @@
   <!-- Gmail  -->
   <a href="" style="text-decoration: none;">
     <img alt="Gmail" title="Send me an email" 
-         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4169E1" 
          style="height: 27px;" /></a>
 
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/Elizandrxm" style="text-decoration: none;">
     <img alt="Repositories" title="See my repositories on GitHub" 
-         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=4169E1" 
          style="height: 27px;" /></a>
  
 <br>
