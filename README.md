@@ -6,7 +6,7 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/elizandra-maria-a17551278/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ADD8E6" 
          style="height: 27px;" /></a>
 
   <!-- Gmail  -->
