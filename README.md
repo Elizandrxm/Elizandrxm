@@ -3,8 +3,6 @@
 ###
 
 <br>
-
-<p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/andrrade" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
