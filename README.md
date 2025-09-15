@@ -32,6 +32,7 @@ I'm an enthusiastic learner in Full Stack Development and UI/UX Design, driven b
 <h2> ⭐ Technologies: </h2>
 <br>
 <div align ="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
